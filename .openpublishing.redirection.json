@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "aaa.md",
+            "redirect_url": "bbb",
+            "redirect_document_id": false
+        }
+    ]
+}
