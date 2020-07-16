@@ -2,7 +2,7 @@
 title: title
 description: description
 ---
-# [pr-only 4] Changed file with more no-pr-only suggestions
+[pr-only 4] Changed file with more no-pr-only suggestions
 
 // PR Only suggestion
 // description required, heading empty, heading no content
