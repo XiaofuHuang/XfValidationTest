@@ -1,4 +1,4 @@
-# [pr-only 5] Changed file with same log
+[pr-only 5] Changed file with same log
 
 // PR Only suggestion
 // description required, heading empty, heading no content
