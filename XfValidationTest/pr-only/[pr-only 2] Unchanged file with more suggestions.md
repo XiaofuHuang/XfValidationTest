@@ -10,5 +10,6 @@ description: description
 // Not PR Only suggestion
 // title required, h1 empty, skip level
 
-// Normal suggestion heading no content
+// Normal suggestion heading skip level
+[!INCLUDE [skip level](./includes/skip-level.md)]
 
