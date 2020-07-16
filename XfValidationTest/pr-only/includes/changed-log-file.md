@@ -5,9 +5,9 @@
 // title required, h1 empty, skip level
 
 // Normal log h1 empty
-# h1-not-empty
+# 
 
 // PR Only log h2 empty
-## h2-not-empty
+## 
 
 content
