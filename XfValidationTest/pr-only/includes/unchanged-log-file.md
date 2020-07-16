@@ -1,5 +1,3 @@
-[pr-only 5] Changed file with same log
-
 // PR Only log
 // description required, heading empty, heading no content
 
@@ -8,8 +6,7 @@
 
 // Normal log h1 empty
 # 
-content
 
 // PR Only log h2 empty
 ## 
-content
+

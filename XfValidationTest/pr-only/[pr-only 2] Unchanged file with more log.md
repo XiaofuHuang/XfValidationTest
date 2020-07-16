@@ -2,14 +2,16 @@
 title: title
 description: description
 ---
-# [pr-only 2] Unchanged file with more no-pr-only suggestions
+[pr-only 2] Unchanged file with more no-pr-only logs
 
-// PR Only suggestion
+// PR Only log
 // description required, heading empty, heading no content
 
-// Not PR Only suggestion
+// Not PR Only log
 // title required, h1 empty, skip level
 
-// Normal suggestion heading skip level
+// Normal log heading skip level
+# heading 1
+## heading 2
 [!INCLUDE [skip level](./includes/skip-level.md)]
 
