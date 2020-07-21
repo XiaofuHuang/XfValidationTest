@@ -1,4 +1,3 @@
 
-content
 ## heading
 content

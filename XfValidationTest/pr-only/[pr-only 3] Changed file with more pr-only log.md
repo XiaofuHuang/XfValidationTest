@@ -12,6 +12,6 @@ description: description
 
 // PR Only log h2 empty
 # heading
-## h2-not-empty
+## 
 
 content
